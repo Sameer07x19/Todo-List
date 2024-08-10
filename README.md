@@ -1,1 +1,1 @@
-A simple To-do list app made using html, css and Javascript
+https://sameer07x19.github.io/Todo-List/
