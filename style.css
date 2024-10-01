@@ -7,19 +7,18 @@ font-family: "Poppins", sans-serif;
 .container{
     height: 100vh;
     width: 100%;
-    background: linear-gradient(135deg,#153677,#4e085f);
+    background: lightblue url("./images/anime walpepar.jpeg") no-repeat fixed center;
+    background-size: cover;
     padding: 10px;
 }
 .todo-app{
     width: 100%;
     max-width: 540px;
-    background-color: #fff;
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
 }
 .todo-app h2{
-    color: #002765;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
@@ -49,7 +48,7 @@ button{
     border: none;
     outline: none;
     padding: 16px 50px;
-    background: #ff5945;
+    background: #16423C;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
