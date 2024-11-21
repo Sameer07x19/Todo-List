@@ -7,7 +7,7 @@ font-family: "Poppins", sans-serif;
 .container{
     height: 100vh;
     width: 100%;
-    background: lightblue url("./images/anime walpepar.jpeg") no-repeat fixed center;
+    background: lightblue url("./images/ubuntu-theme-wallpaper.jpe") no-repeat fixed center;
     background-size: cover;
     padding: 10px;
 }
