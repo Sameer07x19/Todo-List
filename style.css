@@ -19,6 +19,7 @@ font-family: "Poppins", sans-serif;
     border-radius: 10px;
 }
 .todo-app h2{
+    color:#ffff;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
